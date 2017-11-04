@@ -1,0 +1,10 @@
+
+\.idea/
+
+\.vs/
+
+__pycache__/
+
+build/
+
+cloc_merger.spec
